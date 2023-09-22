@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/home12"
+        android:id="@+id/homefragment"
+        android:icon="@drawable/home"/>
+    <item
+
+        android:title="@string/spin"
+        android:id="@+id/spinfragment"
+        android:icon="@drawable/wheel"/>
+    <item
+        android:title="@string/history3"
+        android:id="@+id/historyfragment3"
+        android:icon="@drawable/historyicon"/>
+    <item
+        android:title="@string/profile3"
+        android:id="@+id/profilefragment"
+        android:icon="@drawable/profile"/>
+</menu>
